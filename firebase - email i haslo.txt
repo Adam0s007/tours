@@ -1,0 +1,4 @@
+połączenie z Realtime Database
+
+gmail: testowekonto889
+password: myTestPass234040
